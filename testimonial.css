@@ -1,0 +1,40 @@
+.bg-container368 {
+    background-color: #323f4b;
+    background-size:cover;
+}
+.testimonial-heading {
+    color: #ffffff;
+    font-size: 32px;
+    font-weight: bold;
+}
+.t1image {
+    border-radius: 50%;
+}
+.name {
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.designation {
+    color: #ffffff;
+    font-size: 18px;
+    font-weight: 400;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+.designation02 {
+    color: #ffffff;
+    font-size: 18px;
+    font-weight: 400;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    margin-left: 120px;
+    margin-right: 120px;
+}
+.table01 {
+    margin-left: 50px;
+    
+}
+.navbar01 {
+    text-align: right;
+}

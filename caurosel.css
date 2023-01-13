@@ -1,0 +1,24 @@
+.intebility-container {
+    background-color:#e3e2de;
+    border-color: #4cadc1;
+    border-width: 1px;
+    border-style: solid;
+    width: 350px;
+    height: 400px;
+}
+.intebility-container02 {
+    width: 150px;
+    height: 150px;
+    border-radius: 75px;
+    background-color: bisque;
+    text-align: center;
+    margin-left: 100px;
+}
+.intebility-image {
+    margin-top: 40px;
+}
+.product-description {
+    text-align: center;
+    font-size: 22px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
